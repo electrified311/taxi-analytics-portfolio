@@ -20,7 +20,7 @@
 Создана ВМ в Yandex Cloud (2 vCPU, 4 ГБ RAM, 20 ГБ SSD).  
 Установлены PostgreSQL, Redash, Airflow.
 
-![Yandex Cloud](screenshots/1.png)
+![Yandex Cloud](screenshots/12.png)
 
 ---
 
