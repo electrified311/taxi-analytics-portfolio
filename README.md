@@ -61,12 +61,20 @@
 ## ⏰ 4. Автоматизация (Airflow)
 
 Создан DAG `taxi_daily_etl`.  
-Запуск каждый день в 00:00 UTC, добавляет 30–80 заказов и поездок за текущую дату.
+Запуск каждый день в 00:00 UTC, добавляет 30–80 заказов и поездок за текущую дату, а также настроил логи.
 
 [Код DAG](airflow/taxi_daily_etl.py)
 
-![Airflow DAG](screenshots/7.png)
+Написал код на Python
+![Airflow DAG](screenshots/6.png)
+
+Сам Airflow
+![Airflow успех](screenshots/7.png)
 ![Airflow успех](screenshots/8.png)
+
+Логи
+![Airflow успех](screenshots/9.png)
+
 
 ---
 
