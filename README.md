@@ -40,6 +40,7 @@
 Написал SQL-скрипт в pgAdmin 4
 ![Схема БД2](screenshots/3.png)
 
+
 Созданные таблицы
 ![Схема БД](screenshots/2.png)
 
