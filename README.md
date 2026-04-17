@@ -85,9 +85,9 @@
 ## 📊 5. Дашборды Redash
 
 Были созданы три дэшборда:
-- Оперативные метрики (LIVE) - [Ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/fZmtN396KI95CbRyC8msIT64ex6W6Ud8usZidfq4?org_slug=default)
-- Итоги за 2025 год - [Ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/HsgoXH9JfHlDbswKMD5ijDivv2QljyonyrEJfKtU?org_slug=default)
-- Итоги за 2026 год - [Ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/S1bI7l9yctpyHJ2KxYk2LoB4rNTXkADvyOpqqWQH?org_slug=default)
+- Оперативные метрики (LIVE) - [ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/fZmtN396KI95CbRyC8msIT64ex6W6Ud8usZidfq4?org_slug=default)
+- Итоги за 2025 год - [ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/HsgoXH9JfHlDbswKMD5ijDivv2QljyonyrEJfKtU?org_slug=default)
+- Итоги за 2026 год - [ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/S1bI7l9yctpyHJ2KxYk2LoB4rNTXkADvyOpqqWQH?org_slug=default)
 ![LIVE дашборд](screenshots/14.png)
 
 ### 5.1 Оперативные метрики (LIVE)
@@ -101,7 +101,10 @@
 ### 5.2 Итоги за 2025
 Выручка, заказы, поездки, AOV, DAU, WAU, MAU, LTV, топ водителей, типы поездок, аналитика по маркам.
 
-![Дашборд 2025](screenshots/9.png)
+![Дашборд 2025](screenshots/15.png)
+![Дашборд 2025](screenshots/16.png)
+![Дашборд 2025](screenshots/17.png)
+![Дашборд 2025](screenshots/18.png)
 
 ### 5.3 Итоги за 2026
 Аналогичные метрики за январь–н.в. 2026.
