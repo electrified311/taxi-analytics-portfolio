@@ -1,6 +1,6 @@
 # 🚖 Аналитика такси-сервиса
 
-Пет-проект по анализу данных такси-сервиса(на модифицированной базе Drivee) за 2025–2026 годы.
+Пет-проект по анализу данных такси-сервиса (на модифицированной базе Drivee) за 2025–2026 годы.
 
 ---
 
@@ -10,14 +10,14 @@
 - PostgreSQL
 - Redash
 - Airflow
-- Python (pandas, scipy, sqlalchemy)
+- Python (pandas, numpy, scipy, sqlalchemy)
 - Git
 
 ---
 
 ## 🖥️ 1. Развёртывание инфраструктуры
 
-Создана ВМ в Yandex Cloud (2 vCPU, 4 ГБ RAM, 20 ГБ SSD).  
+Создана ВМ в Yandex Cloud (2 vCPU, 8 ГБ RAM, 20 ГБ SSD).  
 Установлены PostgreSQL, Redash, Airflow.
 
 ![Yandex Cloud](screenshots/1.png)
