@@ -33,7 +33,8 @@
 - `orders` — заказы
 - `rides` — поездки
 
-[Скрипт](sql/01_create_tables.sql)
+[Скрипт на создание таблиц SQL](sql/01_create_tables.sql)
+
 ![Схема БД2](screenshots/3.png)
 ![Схема БД](screenshots/2.png)
 
