@@ -90,6 +90,7 @@
 - Итоги за 2026 год - [ссылка на дашборд Redash](http://111.88.152.24:5000/public/dashboards/S1bI7l9yctpyHJ2KxYk2LoB4rNTXkADvyOpqqWQH?org_slug=default)
 
 - [SQL-скрипты для графиков](sql/02_dashboard_queries.sql)
+
 ![LIVE дашборд](screenshots/14.png)
 
 
