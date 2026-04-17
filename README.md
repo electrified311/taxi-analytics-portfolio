@@ -7,7 +7,7 @@
 ## 📌 Технологии
 
 - Yandex Cloud (ВМ)
-- PostgreSQL
+- PostgreSQL (pgAdmin 4 / DBeaver)
 - Redash
 - Airflow
 - PyCharm
@@ -37,7 +37,10 @@
 
 [SQL-скрипт на создание таблиц](sql/01_create_tables.sql)
 
+Написал SQL-скрипт в pgAdmin 4
 ![Схема БД2](screenshots/3.png)
+
+Созданные таблицы
 ![Схема БД](screenshots/2.png)
 
 ---
@@ -53,7 +56,10 @@
 
 [Python-скрипт на геренацию данных](scripts/generate_data.py)
 
+Написал скрипт для генерации искусственных данных в БД
 ![Python скрипт](screenshots/4.png)
+
+Заполненные таблицы (Пример - таблица drivers)
 ![Таблицы заполнены](screenshots/5.png)
 
 ---
@@ -63,16 +69,16 @@
 Создан DAG `taxi_daily_etl`.  
 Запуск каждый день в 00:00 UTC, добавляет 30–80 заказов и поездок за текущую дату, а также настроил логи.
 
-[Код DAG](airflow/taxi_daily_etl.py)
+[Python-код DAG для Airflow](airflow/taxi_daily_etl.py)
 
-Написал код на Python
+Написал Python-код DAG
 ![Airflow DAG](screenshots/6.png)
 
-Сам Airflow
+Настроил и запустил DAG в Airflow
 ![Airflow успех](screenshots/7.png)
 ![Airflow успех](screenshots/8.png)
 
-Логи
+Настроил логи
 ![Airflow успех](screenshots/9.png)
 
 
