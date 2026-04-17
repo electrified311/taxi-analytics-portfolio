@@ -10,6 +10,8 @@
 - PostgreSQL
 - Redash
 - Airflow
+- PyCharm
+- Jupyter Notebook
 - Python (pandas, numpy, scipy, sqlalchemy)
 - Git
 
@@ -33,7 +35,7 @@
 - `orders` — заказы
 - `rides` — поездки
 
-[Скрипт на создание таблиц SQL](sql/01_create_tables.sql)
+[SQL-скрипт на создание таблиц](sql/01_create_tables.sql)
 
 ![Схема БД2](screenshots/3.png)
 ![Схема БД](screenshots/2.png)
@@ -49,10 +51,10 @@
 - ~230 000 заказов
 - ~200 000 поездок
 
-[Скрипт](scripts/generate_data.py)
+[Python-скрипт на геренацию данных](scripts/generate_data.py)
 
-![Python скрипт](screenshots/5.png)
-![Таблицы заполнены](screenshots/6.png)
+![Python скрипт](screenshots/4.png)
+![Таблицы заполнены](screenshots/5.png)
 
 ---
 
