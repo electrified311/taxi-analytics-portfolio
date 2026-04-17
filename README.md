@@ -129,7 +129,7 @@ Jupyter Notebook, подключение к PostgreSQL через `create_engine
 | 4 | Опытные водители зарабатывают больше | ❌ |
 | 5 | Вечерний чек > утреннего | ❌ |
 
-[Ноутбук](notebooks/hypotheses_testing.ipynb)
+[Ноутбук](notebooks/Taxi.ipynb)
 
 ![Результаты](screenshots/13.png)
 
