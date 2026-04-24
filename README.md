@@ -131,7 +131,7 @@ Jupyter Notebook, подключение к PostgreSQL через `create_engine
 
 [Ноутбук](notebooks/Taxi.ipynb)
 
-![Результаты](screenshots/13.png)
+![Результаты](screenshots/19.png)
 
 ---
 
@@ -144,14 +144,7 @@ Jupyter Notebook, подключение к PostgreSQL через `create_engine
 
 ---
 
-## 🔗 Ссылки
-
-- [Публичные дашборды Redash](http://111.88.152.24:5000)
-- [GitHub репозиторий](https://github.com/твой_логин/taxi-analytics-portfolio)
-
----
-
 ## 📬 Контакты
 
-- Telegram: @username
-- Email: name@example.com
+- Telegram: @closedforprayer
+- Email: fluery1111@mail.ru
