@@ -120,6 +120,9 @@
 
 Jupyter Notebook, подключение к PostgreSQL через `create_engine`.  
 Проверены 5 гипотез (t-test):
+[Ноутбук](notebooks/Taxi.ipynb)
+
+![Результаты](screenshots/19.png)
 
 | № | Гипотеза | Результат |
 |---|----------|-----------|
@@ -128,10 +131,6 @@ Jupyter Notebook, подключение к PostgreSQL через `create_engine
 | 3 | Конверсия city > intercity | ❌ |
 | 4 | Опытные водители зарабатывают больше | ❌ |
 | 5 | Вечерний чек > утреннего | ❌ |
-
-[Ноутбук](notebooks/Taxi.ipynb)
-
-![Результаты](screenshots/19.png)
 
 ---
 
