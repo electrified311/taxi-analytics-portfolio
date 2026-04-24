@@ -131,7 +131,7 @@ Jupyter Notebook, подключение к PostgreSQL через `create_engine
 
 [Ноутбук](notebooks/Taxi.ipynb)
 
-![Результаты](screenshots/19.png)
+![Результаты](screenshots/13.png)
 
 ---
 
